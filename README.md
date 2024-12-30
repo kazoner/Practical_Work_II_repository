@@ -24,3 +24,14 @@ The objective of this project is making a website that records and displays all 
 -Added the images folder.
 
 -Updated links in all htmls.
+
+-Finished the README.md.
+
+#### Problems
+-Know the exactly path to connect the styles.css with the html.
+-Addapting the styles.css to the topic.html, i could not solve it because a matter of time.
+
+##### Conlusion
+This project allowed me to apply what I learned in the Fundamentals of Computer Engineering by creating a personal website. Using HTML and CSS, I built a site that showcases my progress and understanding of these tools.
+
+Through this process, I improved my web development skills and created a platform to display my knowledge. This website is a starting point for future learning and development in web design and computer engineering.
