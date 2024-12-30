@@ -6,7 +6,13 @@ The objective of this project is making a website that records and displays all 
 
 ### Actions
 -Added the basic structure to the web, the index.html file and integrated the styles.css file for this section.
+
 -Added the footer, the about.html file and integrated the styles.css for this section.
+
 -Added the contact.html file and integrated the styles.css for this section.
+
 -Added the degree.html file and integrated the styles.css for this section.
+
 -Added the net.html file and integrated the styles.css for this section.
+
+-Added the fce.html file and integrated the style.css for this section.ad
