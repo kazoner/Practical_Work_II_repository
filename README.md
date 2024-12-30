@@ -22,3 +22,5 @@ The objective of this project is making a website that records and displays all 
 -Added the css folder and the styles.css file.
 
 -Added the images folder.
+
+-Updated links in al htmls.
